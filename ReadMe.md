@@ -3,11 +3,6 @@ by Rimblock<br>
 [@ EpochMod.com](http://epochmod.com/forum/index.php?/user/12612-rimblock/)<br>
 [On GitHub](https://github.com/RimBlock)
 
-# Table of Contents:
-* [Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch/tree/debug-compatible)
-* [NOT Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch)
-
-
 #Overview
 
 A Plot for Life allows you to keep your ownership of you plot poles and items you have built after your character dies.  This means you no longer have to get the money needed for a new plot pole after death and replace your old plot pole with a new one in order to get building rights on your base again.
