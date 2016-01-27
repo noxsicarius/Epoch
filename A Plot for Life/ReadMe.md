@@ -3,7 +3,10 @@ by Rimblock<br>
 [@ EpochMod.com](http://epochmod.com/forum/index.php?/user/12612-rimblock/)<br>
 [On GitHub](https://github.com/RimBlock)
 
-If this mod was not downloaded from my GitHub or my thread on EpochMod.com then please let me know by PMing me on Epoch Mod.
+# Table of Contents:
+* [Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch/tree/debug-compatible/A%20Plot%20for%20Life)
+* [NOT Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch/tree/master/A%20Plot%20for%20Life)
+
 
 #Overview
 
