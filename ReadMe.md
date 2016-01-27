@@ -78,9 +78,9 @@ Add the following line to the bottom of your description.ext located in your MPM
 #include "custom\snap_pro\snappoints.hpp"
 ```
 
-# Options
+# Optional items
 
-Put these either in your init.sqf file or your variables.sqf file.
+Put these in your init.sqf
 
 Turn on A plot for Life (check ownership against SteamID).
 ```cpp
@@ -95,6 +95,17 @@ DZE_PlotOwnership = true;
 Turn on Snap Build Pro and the modular player build framework.
 ```cpp
 DZE_modularBuild = true;
+```
+
+Change the range objects must be to snap to each other (negative makes the closer, positive makes them farther)
+Do not exceed -5 or +5
+```c++
+DZE_snapExtraRange = 0;
+```
+
+To disable tutorial text on bottom-right corner, add this to your **init.sqf**:
+```c++
+snapTutorial = false;
 ```
 
 #References
