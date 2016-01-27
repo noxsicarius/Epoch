@@ -4,8 +4,8 @@ by Rimblock<br>
 [On GitHub](https://github.com/RimBlock)
 
 # Table of Contents:
-* [Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch/tree/debug-compatible/A%20Plot%20for%20Life)
-* [NOT Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch/tree/master/A%20Plot%20for%20Life)
+* [Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch/tree/debug-compatible)
+* [NOT Using Nox's Debug Menu](https://github.com/noxsicarius/Epoch)
 
 
 #Overview
