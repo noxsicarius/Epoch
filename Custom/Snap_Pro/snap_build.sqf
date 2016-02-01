@@ -222,6 +222,7 @@ fnc_initSnapTutorial = {
 				] spawn bis_fnc_dynamicText;
 			};
 		};	
+	snapTutorial = false;
 };
 
 switch (snapActionState) do {
