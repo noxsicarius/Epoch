@@ -108,8 +108,26 @@ To disable tutorial text on bottom-right corner, add this to your **init.sqf**:
 snapTutorial = false;
 ```
 
-#References
+# WAI Fix
 
+1. Go to your server root directory
+
+1. Go to custom/System and open ***server_monitor.sqf***
+
+	Find this code at the bottom of the file:
+
+	~~~~java
+	allowConnection = true;	
+	~~~~
+	
+	And past the following code ***above*** it:
+	
+	~~~~java
+	[] ExecVM "\z\addons\dayz_server\WAI\init.sqf";
+	~~~~
+
+
+#References
 
 * [APfL Epochmod.com thread](http://epochmod.com/forum/index.php?/topic/11042-release-a-plot-for-life-v232-keep-your-buildables-on-death-take-plot-ownership/)
 * [APfL Git](https://github.com/RimBlock/Epoch/tree/master/A%20Plot%20for%20Life)
